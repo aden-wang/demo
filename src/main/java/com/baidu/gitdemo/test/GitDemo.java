@@ -11,6 +11,7 @@ public class GitDemo {
         System.out.println("sourccetree又提交了第三条数据");
         System.out.println("原项目又提交了第四条数据");
         System.out.println("sourccetree又提交了第五条数据");
+        System.out.println("forgitsave提交第六条数据");
 
     }
 }
